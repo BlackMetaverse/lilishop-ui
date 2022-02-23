@@ -3,15 +3,15 @@ var BASE = {
      * @description api请求基础路径
      */
     API_DEV: {
-      common: "https://common-api.crystalcert.com",
-      buyer: "https://buyer-api.crystalcert.com",
-      seller: "https://store-api.crystalcert.com",
-      manager: "https://admin-api.crystalcert.com"
+      common: "https://common-api.noctisma.com",
+      buyer: "https://buyer-api.noctisma.com",
+      seller: "https://store-api.noctisma.com",
+      manager: "https://admin-api.noctisma.com"
     },
     API_PROD: {
-      common: "https://common-api.crystalcert.com",
-      buyer: "https://buyer-api.crystalcert.com",
-      seller: "https://store-api.crystalcert.com",
-      manager: "https://admin-api.crystalcert.com"
+      common: "https://common-api.noctisma.com",
+      buyer: "https://buyer-api.noctisma.com",
+      seller: "https://store-api.noctisma.com",
+      manager: "https://admin-api.noctisma.com"
     },
   };
